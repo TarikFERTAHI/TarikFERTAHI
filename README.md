@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik FERTAHI</h1>
-<h3 align="center">I'm passionate full stack web developer, Mobile application and Data Scientist</h3>
+<h3 align="center">I'm passionate Full Stack Spring Boot / Angular developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikfertahi&label=Profile%20views&color=0e75b6&style=flat" alt="tarikfertahi" /> </p>
 
