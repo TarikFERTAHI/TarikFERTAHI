@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarik FERTAHI</h1>
-::marker<h3 align="center">I'm passionate Full Stack Spring Boot / Angular developer.</h3>
-::marker<h3 align="center">I’m currently learning Big Data and Cloud Computing.</h3>
-::marker<h3 align="center">fertahitarik@gmail.com</h3>
+<li><h3 align="center">I'm passionate Full Stack Spring Boot / Angular developer.</h3></li>
+<li><h3 align="center">I’m currently learning Big Data and Cloud Computing.</h3></li>
+<li><h3 align="center">fertahitarik@gmail.com</h3></li>
 
 
 <p></p>
