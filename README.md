@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik FERTAHI</h1>
-<h3 align="center">I'm passionate Full Stack Spring Boot / Angular developer.</h3>
+<h3 align="center">I'm Full Stack developer.</h3>
 <h3 align="center">fertahitarik@gmail.com</h3>
 
 
