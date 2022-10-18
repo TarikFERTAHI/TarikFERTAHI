@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik FERTAHI</h1>
-<h3 align="center">I'm Full Stack developer.</h3>
-<h3 align="center">fertahitarik@gmail.com</h3>
+<h3 align="center">I'm Full Stack Spring / Angular developer.</h3>
 
 <p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966" width="600" height="300" style="max-width: 100%;">
