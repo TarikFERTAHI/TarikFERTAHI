@@ -39,7 +39,7 @@
 <ul dir="auto">
 <li><strong>Containerization:</strong> <code>Docker</code></li>
 <li><strong>Version Control:</strong> <code>Git</code> • <code>GitHub</code></li>
-<li><strong>Project Management:</strong> <code>Jira</code> • <code>GitHub Projects</code></li>
+<li><strong>Project Management:</strong> <code>GitHub Projects</code></li>
 </ul>
 </li>
 </ul>
