@@ -38,7 +38,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="ferris_wheel" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a1.png">🎡</g-emoji> <strong>Ecosystem:</strong></p>
 <ul dir="auto">
 <li><strong>Containerization:</strong> <code>Docker</code></li>
-<li><strong>Version Control:</strong> <code>Git</code> • <code>GitHub</code></li>
+<li><strong>Version Control:</strong> <code>Git</code></li>
 <li><strong>Project Management:</strong> <code>GitHub Projects</code></li>
 </ul>
 </li>
