@@ -29,7 +29,7 @@
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> <strong>Frontend:</strong></p>
 <ul dir="auto">
-<li><strong>Language:</strong> <code>JavaScript</code></li>
+<li><strong>Language:</strong> <code>JavaScript</code> • <code>TypeScript</code></li>
 <li><strong>Framework/Library:</strong> <code>Angular</code></li>
 <li><strong>Utils:</strong><code>Bootstrap</code></li>
 </ul>
