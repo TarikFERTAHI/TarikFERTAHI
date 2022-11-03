@@ -40,7 +40,7 @@
 <li><strong>Containerization:</strong> <code>Docker</code></li>
 <li><strong>Container Orchestration:</strong> <code> Docker Swarm</code> • <code>Kubernetes</code></li>
 <li><strong>Version Control:</strong> <code>Git</code></li>
-<li><strong>CI</strong> <code>Jenkins</code></li>
+<li><strong>CI:</strong> <code>Jenkins</code></li>
 <li><strong>Project Management:</strong> <code>GitHub Projects</code></li>
 </ul>
 </li>
