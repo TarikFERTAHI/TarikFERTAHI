@@ -23,7 +23,7 @@
 <li><strong>Framework:</strong> <code>Spring Boot</code></li>
 <li><strong>Databases:</strong> <code>MySQL</code> • <code>PostgreSQL</code> • <code>MongoDB</code></li>
 <li><strong>System Architecture:</strong> <code>Monolithic</code> • <code>Micro-Services</code></li>
-<li><strong>Protocol:</strong> <code>REST</code></li>
+<li><strong>Protocol:</strong> <code>REST</code> • <code>SOAP</code> • <code>GraphQL</code></li>
 </ul>
 </li>
 <li>
@@ -38,7 +38,9 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="ferris_wheel" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a1.png">🎡</g-emoji> <strong>Ecosystem:</strong></p>
 <ul dir="auto">
 <li><strong>Containerization:</strong> <code>Docker</code></li>
+<li><strong>Container Orchestration:</strong> <code> Docker Swarm</code> • <code>Kubernetes</code></li>
 <li><strong>Version Control:</strong> <code>Git</code></li>
+<li><strong>CI</strong> <code>Jenkins</code></li>
 <li><strong>Project Management:</strong> <code>GitHub Projects</code></li>
 </ul>
 </li>
