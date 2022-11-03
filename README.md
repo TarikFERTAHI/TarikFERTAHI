@@ -20,7 +20,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="file_cabinet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png">🗄️</g-emoji> <strong>Backend:</strong></p>
 <ul dir="auto">
 <li><strong>Language:</strong> <code>Java</code></li>
-<li><strong>Framework:</strong> <code>Spring Boot</code></li>
+<li><strong>Framework:</strong> <code>Spring</code> • <code>Spring Boot</code> • <code>Spring IOC</code> • <code>Spring MVC</code> • <code>Spring Data</code></li>
 <li><strong>Databases:</strong> <code>MySQL</code> • <code>PostgreSQL</code> • <code>MongoDB</code></li>
 <li><strong>System Architecture:</strong> <code>Monolithic</code> • <code>Micro-Services</code></li>
 <li><strong>Middlewares:</strong> <code>REST</code> • <code>SOAP</code> • <code>GraphQL</code></li>
