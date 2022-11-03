@@ -23,7 +23,7 @@
 <li><strong>Framework:</strong> <code>Spring Boot</code></li>
 <li><strong>Databases:</strong> <code>MySQL</code> • <code>PostgreSQL</code> • <code>MongoDB</code></li>
 <li><strong>System Architecture:</strong> <code>Monolithic</code> • <code>Micro-Services</code></li>
-<li><strong>Protocol:</strong> <code>REST</code> • <code>SOAP</code> • <code>GraphQL</code></li>
+<li><strong>Middlewares:</strong> <code>REST</code> • <code>SOAP</code> • <code>GraphQL</code></li>
 </ul>
 </li>
 <li>
